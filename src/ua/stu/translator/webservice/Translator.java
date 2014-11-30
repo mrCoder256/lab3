@@ -1,4 +1,4 @@
-package com.example.webservice;
+package ua.stu.translator.webservice;
 
 public class Translator {
 	public static Word translate(String word, Languages from, Languages to) {

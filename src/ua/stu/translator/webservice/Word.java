@@ -1,4 +1,4 @@
-package com.example.webservice;
+package ua.stu.translator.webservice;
 
 import java.util.ArrayList;
 

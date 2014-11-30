@@ -1,4 +1,4 @@
-package com.example.webservice;
+package ua.stu.translator.webservice;
 
 public enum Languages {
 	EN,

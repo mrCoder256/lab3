@@ -1,4 +1,4 @@
-package com.example.webservice;
+package ua.stu.translator.webservice;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
