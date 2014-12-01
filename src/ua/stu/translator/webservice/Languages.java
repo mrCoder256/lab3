@@ -7,5 +7,18 @@ public enum Languages {
 	DE,
 	FR,
 	ES,
-	PL
+	PL;
+	
+	public static String[] getArray(){
+		String[] langs = new String[] {
+			"EN",
+			"RU",
+			"UA",
+			"DE",
+			"FR",
+			"ES",
+			"PL"				
+		};
+		return langs;
+	}
 }	

@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Word {
 	
 	private String src;
-	private ArrayList<String> translationList;
+	public ArrayList<String> translationList;
 	
 	public Word(String src, ArrayList<String> translationList) {
 		this.src = src;
